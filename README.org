@@ -1,0 +1,10 @@
+* xml.location
+
+Bind XPath-based locations to variables with extensible type-based to/from XML conversion
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/scymtym/xml.location.git   |
+| commit  | 3828f44  |
+| systems | xml.location |
+|---------+-------------------------------------------|
+
